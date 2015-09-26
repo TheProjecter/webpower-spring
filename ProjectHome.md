@@ -1,0 +1,1 @@
+This project just a frame of web application.It's easy and simply to use some commom open source projects just like spring,ibatis,acegi and so on.It's build with Maven and using Jetty as web server.It's shown using fewer config files to make web application not like appfuse.
